@@ -1,2 +1,2 @@
 # web-e-commerce
-This is an web app which will manage inventory and orders
+This is a Rest API that will manage inventory and orders
