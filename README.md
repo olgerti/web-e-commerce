@@ -1,2 +1,11 @@
-# web-e-commerce
-This is an web app which will manage inventory and orders
+
+@GET
+//domain.com/product
+@GET
+//domain.com/product/{id}
+@POST
+//domain.com/product
+bodyRequest
+
+@PUT or @PATCH
+
